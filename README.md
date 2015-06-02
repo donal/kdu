@@ -2,12 +2,18 @@
 
 Repo for GitHub talk at KDU University College, Malaysia, 3 June 2015
 
+### Slides
+
+![KDU slides](https://github.com/adam-p/markdown-here/raw/master/GitHub_talk_kdu_20150603.pdf "GitHub talk at KDU, 3 June 2015")
+
 ### Links
 
 #### GitHub
 
 * [https://github.com/donal/kdu - you are here!](https://github.com/donal/kdu)
 * [Student Developer's Pack](https://education.github.com/pack)
+* [GitHub guides](https://guides.github.com/)
+* [GitHub guides for Enterprise](https://enterprise.github.com/resources)
 
 #### Open Source Software
 
