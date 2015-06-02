@@ -4,7 +4,7 @@ Repo for GitHub talk at KDU University College, Malaysia, 3 June 2015
 
 ### Slides
 
-[GitHub talk at KDU, 3 June 2015](https://github.com/donal/kdu/master/GitHub_talk_kdu_20150603.pdf)
+[GitHub talk at KDU, 3 June 2015](https://github.com/donal/kdu/blob/master/GitHub_talk_kdu_20150603.pdf)
 
 ### Links
 
